@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "hi",
+    "name": "hello",
     "description": "A chrome extension to help you study."
 
 }
