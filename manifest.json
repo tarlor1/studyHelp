@@ -1,0 +1,5 @@
+{
+    "manifest_version": 3,
+    "name": "studyHelp",
+    "description": "A chrome extension to help you study."
+}
