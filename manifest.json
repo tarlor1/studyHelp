@@ -1,6 +1,12 @@
 {
     "manifest_version": 3,
     "name": "study help",
-    "description": "A chrome extension to help you study."
-
+    "description": "A chrome extension to help you study.",
+    "version": "0.0.1",
+    
+         "author": {
+          "email": "anujdhot13@yahoo.com tarlor@"
+        }
+        
+    
 }
